@@ -61,7 +61,7 @@ Build steps
 - Create the trigger. Now in main.tf change the bucket name and commit.
 ![](https://media.giphy.com/media/JmUlkDJMifYiXAri23/giphy.gif)
 
-- Once you commit, cloud build trigger will get executed and you check live logs and see a GCS bucket got created.
+- Once you commit, cloud build trigger will get executed.You can check live logs and see a GCS bucket got created.
 ![Screenshot 2022-01-08 at 6.04.06 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1641645331688/mP1-5i-ik.png)
 
 ![](https://media.giphy.com/media/XBWrLAZricVcBwL8r4/giphy.gif)
